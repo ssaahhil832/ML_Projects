@@ -1,4 +1,13 @@
-1. import all the project documents
-2. Activate the virutal memory
-3. run the command "python app.py"
-4. The program will ask for the sentence and will tell you how much spam or ham it is 
+---
+title: Spam Detector
+emoji: 🔥
+colorFrom: blue
+colorTo: gray
+sdk: gradio
+sdk_version: 5.42.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
